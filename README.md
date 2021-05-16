@@ -1,2 +1,3 @@
 Репозиторий для курса "Машинное обучение в продакшене".
-https://data.mail.ru/profile/se.shubin/
+
+Student profile: https://data.mail.ru/profile/se.shubin/
