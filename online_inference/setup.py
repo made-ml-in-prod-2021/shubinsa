@@ -18,7 +18,7 @@ setup(
         "scikit-learn==0.22.1",
         "setuptools~=45.2.0",
         "marshmallow-dataclass==8.4.1",
-        "pydantic==1.8.1",
+        "pydantic==1.8.2",
     ],
     license="MIT",
 )
