@@ -6,7 +6,7 @@ metadata:
     app: fastapi-ml-resources
 spec:
   containers:
-    - image: shubinsa/online_inference:v1
+    - image: shubinsa/inference:v1
       name: fastapi-ml
       ports:
         - containerPort: 80
