@@ -6,7 +6,7 @@ metadata:
     app: fastapi-ml
 spec:
   containers:
-    - image: arhimisha/ml_in_prod_task_2:v1
+    - image: shubinsa/inference:v1
       name: fastapi-ml
       ports:
         - containerPort: 80
